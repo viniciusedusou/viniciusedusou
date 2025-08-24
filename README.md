@@ -22,28 +22,21 @@ I specialize in **Vue, React, React Native, Nuxt, Swift, TypeScript**, and moder
 
 **A complete retail solution built with Vue and React, designed for autonomous store experiences:**
 
-- **Vue Totem:** Self-service kiosk with **QR code scanning** and **instant checkout**
-- **React Shopping App:** Mobile app for customers to **shop independently**
-- **Vue Admin Panel:** Store management dashboard to **add products, generate QR codes, and track sales**
-- **Features:** Real-time updates, responsive design, accessibility-focused, secure transactions
+- **Vue Totem:** Self-service kiosk with **QR code scanning**, **instant checkout**, and intuitive UI
+- **React Shopping App:** Mobile app for customers to **browse and purchase independently**, with smooth performance
+- **Vue Admin Panel:** Store management dashboard to **add products, generate QR codes, track sales, and manage inventory**
+- **Features:** Real-time updates, responsive design, accessibility-focused, secure transactions, modular architecture for scalability
+- **Technologies:** Vue 3, React, React Native, TypeScript, Nuxt, TailwindCSS, Firebase, REST APIs
 
-> 💡 *This project showcases my ability to integrate multiple technologies into a cohesive, scalable system.*
+> 💡 *This project demonstrates my ability to integrate multiple technologies into a cohesive, scalable system with production-level quality.*
 
 ---
 
-## 🔐 Other Projects
+## 🔹 Additional Projects
 
-### HENNGE Create User Form Challenge
-- Built a **secure user registration form** in Vue 3 + TypeScript
-- Features **real-time password validation**, shake animation on invalid submission, and accessibility support
-
-### Nuxt.js SSR Projects
-- Developed **server-side rendered applications** optimized for performance and SEO
-- Emphasized **TypeScript and responsive design**
-
-### Swift / iOS Apps
-- Created **native iOS applications** in Swift
-- Focused on **clean architecture, UX, and performance**
+- **Nuxt.js SSR Projects:** Built server-side rendered applications optimized for **SEO, performance, and maintainability**, leveraging TypeScript and modern best practices.  
+- **Swift / iOS Apps:** Developed native iOS applications with **clean architecture**, **robust UX**, and **smooth performance**.  
+- **Open Source Contributions:** Actively contributing to **frontend libraries**, improving accessibility, and enhancing component usability.  
 
 ---
 
@@ -62,11 +55,10 @@ I specialize in **Vue, React, React Native, Nuxt, Swift, TypeScript**, and moder
 ---
 
 ## ⚡ Fun Fact
-I enjoy experimenting with **new frameworks and languages**, always combining **usability, performance, and security** in my projects.
+I enjoy experimenting with **new frameworks and languages**, always combining **usability, performance, and security** in my projects.  
+I also love **creating end-to-end systems** that are not only functional but also **beautifully designed and intuitive**.
 
 ---
 
 ## 📌 Next Steps
-I’m continuously learning and **exploring new technologies**, and I love contributing to **open-source projects** and **challenging frontend solutions**.
-
-
+I’m continuously learning and **exploring new technologies**, and I love **building complex, real-world applications** that push the boundaries of frontend development.
